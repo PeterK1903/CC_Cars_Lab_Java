@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74d88a9f-3bf9-4dd0-be3a-904912beca97" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZcOrnd4Pw7UOUeCUmTpwA56lD2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Cars" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DealershipTest">
+    <configuration name="All in CC_Cars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CC_Cars" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cars in CC_Cars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CC_Cars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cars" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CC_Cars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Buyers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Buyers" />
+      <option name="MAIN_CLASS_NAME" value="Buyers.CustomerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DealershipTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CC_Cars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Buyers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Buyers" />
+      <option name="MAIN_CLASS_NAME" value="Buyers.DealershipTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElectricCarTest.canDrive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CC_Cars" />
+      <option name="PACKAGE_NAME" value="Cars" />
+      <option name="MAIN_CLASS_NAME" value="Cars.ElectricCarTest" />
+      <option name="METHOD_NAME" value="canDrive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DealershipTest" />
+        <item itemvalue="JUnit.CustomerTest" />
+        <item itemvalue="JUnit.All in CC_Cars" />
+        <item itemvalue="JUnit.Cars in CC_Cars" />
+        <item itemvalue="JUnit.ElectricCarTest.canDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74d88a9f-3bf9-4dd0-be3a-904912beca97" name="Default Changelist" comment="" />
+      <created>1585135116335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585135116335</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Project_Structure" timestamp="1585135938528">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Project_Structure/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585135938528" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1585142656771">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585142656771" />
+    <state x="414" y="266" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585138575780">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="414" y="266" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585138575780" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1585144756550">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585144756550" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1585144756547">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585144756547" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1585144756546">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585144756546" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1585144756548">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585144756548" />
+    <state x="232" y="125" width="816" height="550" key="find.popup" timestamp="1585136676610">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="232" y="125" width="816" height="550" key="find.popup/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585136676610" />
+    <state x="347" y="23" key="refactoring.ChangeSignatureDialog" timestamp="1585143429713">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="347" y="23" key="refactoring.ChangeSignatureDialog/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585143429713" />
+  </component>
+</project>
